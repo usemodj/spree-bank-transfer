@@ -10,4 +10,4 @@
 # '0.40.x' => { :tag => 'v1.0.0', :version => '1.0.0' }
 
 '1.3.x' => { :branch => 'master', :tag => 'v1.0.0', :version => '1.0.0' }
-#'2.1.0.beta' => { :branch => 'master', :tag => 'v1.0.0', :version => '1.0.0' }
+'2.1.0.beta' => { :branch => 'master'}
